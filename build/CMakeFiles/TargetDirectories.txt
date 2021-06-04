@@ -1,0 +1,16 @@
+/home/ken/CAdv/Project/build/CMakeFiles/rebuild_cache.dir
+/home/ken/CAdv/Project/build/CMakeFiles/edit_cache.dir
+/home/ken/CAdv/Project/build/CMakeFiles/main.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/rebuild_cache.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/edit_cache.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/bigtdel.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/bigt.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/btr.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/kcp.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/corrupt.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/bt-bin.dir
+/home/ken/CAdv/Project/build/bt/CMakeFiles/bt.dir
+/home/ken/CAdv/Project/build/bt/samples/CMakeFiles/rebuild_cache.dir
+/home/ken/CAdv/Project/build/bt/samples/CMakeFiles/btcopy.dir
+/home/ken/CAdv/Project/build/bt/samples/CMakeFiles/edit_cache.dir
+/home/ken/CAdv/Project/build/bt/samples/CMakeFiles/btsort.dir
